@@ -1,0 +1,16 @@
+Nombre de la carta - Aggressive Mining
+
+Tipo/subtipo de carta - Encantamiento
+
+Descripción de la carta - No puedes jugar tierras. Sacrificar una tierra:
+roba dos cartas. Activa esta habilidad solo una vez cada turno. 
+
+Símbolo de expansión - Magic 2015
+
+Coste de maná - 4
+
+Fuerza/Resistencia (en el caso de las criaturas) - ?
+
+Diseñador y fecha - Franz Vohwinkel 2014
+
+Rareza - Raro

@@ -1,0 +1,16 @@
+Nombre de la carta - Angel's Feather
+
+Tipo/subtipo de carta - Artefacto
+
+Descripción de la carta - Siempre que un jugador lance un hechizo blanco, puedes ganar
+1 vida.
+
+Símbolo de expansión - Magic 2012
+
+Coste de maná - 2
+
+Fuerza/Resistencia (en el caso de las criaturas) - ?
+
+Diseñador y fecha - Alan Pollack 2012
+
+Rareza - Poco común

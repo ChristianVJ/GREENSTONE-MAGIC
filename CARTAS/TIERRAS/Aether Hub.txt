@@ -1,0 +1,20 @@
+Nombre de la carta - Aether Hub
+
+Tipo/subtipo de carta - Tierra
+
+Descripción de la carta - Cuando la Planta de éter central entre al campo de batalla,
+obtiene un contenedor de energía.
+Agrega un contenedor a tu reserva de maná.
+Pagar: agrega un maná de cualquier color a tu reserva de maná. 
+
+Suministra energía a los sueños de Ghirapur.
+
+Símbolo de expansión - Kaladesh
+
+Coste de maná - ?
+
+Fuerza/Resistencia (en el caso de las criaturas) - ?/?
+
+Diseñador y fecha - Sam Burley 2016
+
+Rareza - Poco común

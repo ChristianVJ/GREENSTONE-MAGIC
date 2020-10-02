@@ -1,0 +1,20 @@
+Nombre de la carta - Ego Erasure
+
+Tipo/subtipo de carta - Tribal, instantaneo.
+
+Descripción de la carta - Cambiaformas (Esta carta es de todos los tipos
+de criatura en todo momento.)
+Las criaturas que controla el jugador objetivo obtienen -2/-0 y pierden
+todos los tipos de criatura hasta el final del turno.
+
+Cuando todo desaparece, todo es igual.
+
+Símbolo de expansión - Lorwyn
+
+Coste de maná - 2
+
+Fuerza/Resistencia (en el caso de las criaturas) - ?/?
+
+Diseñador y fecha - Steven Belledin 2012
+
+Rareza - Poco común

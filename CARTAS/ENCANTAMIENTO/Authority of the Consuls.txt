@@ -1,0 +1,17 @@
+Nombre de la carta - Authority of the Consuls
+
+Tipo/subtipo de carta - Conjuro
+
+Descripción de la carta - Las criaturas que controlan tus oponentes entran al campo de batalla giradas.
+Siempre que una criatura entra al campo de batalla bajo el control de un oponente, ganas 1 vida.
+Los ciudadanos pueden hacer lo que deseen... dentro de lo estipulado por las leyes del Consulado.
+
+Símbolo de expansión - Kaladesh
+
+Coste de maná - 1
+
+Fuerza/Resistencia (en el caso de las criaturas) - ?
+
+Diseñador y fecha - Lake Hurwitz 2016
+
+Rareza - Raro

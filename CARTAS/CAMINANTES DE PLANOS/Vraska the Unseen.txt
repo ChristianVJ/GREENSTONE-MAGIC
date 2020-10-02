@@ -1,0 +1,21 @@
+Nombre de la carta - Vraska the Unseen
+
+Tipo/subtipo de carta - Caminante de planos legendario.
+
+Descripción de la carta - 
++1 Hasta tu próximo turno, siempre que una criatura haga daño de combate a Vraska
+la invisible, destruye esa criatura.
+-3 Destruye el permanente objetivo que no sea tierra
+-7 Pon en el campo de batalla tres fichas de criatura Asesino negras 1/1 con
+"Siempre que esta criatura haga daño de combate a un jugador, ese jugador
+pierde el juego".
+
+Símbolo de expansión - Return to Ravnica
+
+Coste de maná - 5
+
+Fuerza/Resistencia (en el caso de las criaturas) - ?
+
+Diseñador y fecha - Aleksi Briclot 2014
+
+Rareza - Mítico raro

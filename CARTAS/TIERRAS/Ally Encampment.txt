@@ -1,0 +1,20 @@
+Nombre de la carta - Ally Encampment
+
+Tipo/subtipo de carta - Tierra
+
+Descripción de la carta - 
+1. Agrega 1 a tu reserva de maná
+2. Agrega un maná de cualquier color a tu reserva de maná. Usa este maná solo
+para lanzar un hechizo de Aliado.
+3. Sacrificar el campamento aliado: Regresa el Aliado objetivo que controlas a la mano
+de su propietario.
+
+Símbolo de expansión - Battle for Zendikar
+
+Coste de maná - ?
+
+Fuerza/Resistencia (en el caso de las criaturas) - ?/?
+
+Diseñador y fecha - Jonas De Ro 2015
+
+Rareza - Raro

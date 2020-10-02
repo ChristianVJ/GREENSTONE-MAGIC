@@ -1,0 +1,18 @@
+Nombre de la carta - Abandon Reason
+
+Tipo/subtipo de carta - Instantáneo
+
+Descripción de la carta - Hasta dos criaturas objetivo obtienen +1/+0 cada una
+y ganan la habilidad de dañar primero hasta el final del turno.
+Demencia. Si descartas esta carta, exiliala. Cuando lo hagas, lánzala por su coste
+de demencia o ponl en tu cementerio.
+
+Símbolo de expansión - Eldritch Moon
+
+Coste de maná - 3
+
+Fuerza/Resistencia (en el caso de las criaturas) - ?/?
+
+Diseñador y fecha - Josh Hass 2016
+
+Rareza - Poco común

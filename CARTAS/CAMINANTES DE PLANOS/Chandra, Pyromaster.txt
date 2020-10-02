@@ -1,0 +1,22 @@
+Nombre de la carta - Chandra, Pyromaster
+
+Tipo/subtipo de carta - Caminante de planos legendario.
+
+Descripción de la carta - 
++1 Chandres, piromaestra hace 1 punto de daño al jugador objetivo y 1 punto de daño
+a hasta una criatura objetivo que controla ese jugador. Esa criatura no puede bloquear
+este turno
+0 Exilia la primera carta de tu biblioteca. Puedes jugar esa carta este turno
+-7 Exilia las diez primeras cartas de tu biblioteca. Elige una carta de instantáneo 
+o de conjuro exiliada de esta forma y copiala tres veces. Puedes lanzar las copias sin
+pagar sus costes de maná. 
+
+Símbolo de expansión - Magic 2015
+
+Coste de maná - 4
+
+Fuerza/Resistencia (en el caso de las criaturas) - ?
+
+Diseñador y fecha - Winona Nelson 2014
+
+Rareza - Mítico raro

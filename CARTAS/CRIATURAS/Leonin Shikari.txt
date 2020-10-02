@@ -1,0 +1,16 @@
+Nombre de la carta - Leonin Shikari
+
+Tipo/subtipo de carta - Criatura, Soldado gato
+
+Descripción de la carta - Puedes activar habilidades de equipar en cualquier momento
+en que pudieras lanzar un instantaneo. Su instinto es tan afilado como su espada.  
+
+Símbolo de expansión - Comandante 2017
+
+Coste de maná - 1
+
+Fuerza/Resistencia (en el caso de las criaturas) - 2/2
+
+Diseñador y fecha - Wayne England 2017
+
+Rareza - Raro

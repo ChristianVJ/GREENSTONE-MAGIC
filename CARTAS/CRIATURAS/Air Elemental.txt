@@ -1,0 +1,17 @@
+Nombre de la carta - Air Elemental
+
+Tipo/subtipo de carta - Criatura, Elemental
+
+Descripción de la carta - Mientras el barco se acercaba, el tótem de jade se elevó en el cielo. 
+El poder se anudó en torno a él como un remolino.Los ojos de piedra centellearon. 
+Entonces, el mundo exhaló un soplido y surgió un huracán. 
+
+Símbolo de expansión - Ixalan
+
+Coste de maná - 3
+
+Fuerza/Resistencia (en el caso de las criaturas) - 4/4
+
+Diseñador y fecha - Tomasz Jedruszek 2017
+
+Rareza - Poco común

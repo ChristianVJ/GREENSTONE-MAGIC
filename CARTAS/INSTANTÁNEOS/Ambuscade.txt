@@ -1,0 +1,18 @@
+Nombre de la carta - Ambuscade
+
+Tipo/subtipo de carta - Instantáneo
+
+Descripción de la carta - La criatura objetivo que controlas obtiene +1/+0 hasta el
+final del turno. Hace una cantidad de daño igual a su fuerza a la criatura objetivo que controla
+un oponente. 
+"Me pasé la vida observando a los depredadores. Aprendí algunos trucos".
+
+Símbolo de expansión - Hour of Devastation
+
+Coste de maná - 3
+
+Fuerza/Resistencia (en el caso de las criaturas) - ?/?
+
+Diseñador y fecha - Kev Walker 2017
+
+Rareza - Común

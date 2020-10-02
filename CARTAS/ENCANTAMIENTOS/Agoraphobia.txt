@@ -1,0 +1,18 @@
+Nombre de la carta - Agoraphobia
+
+Tipo/subtipo de carta - Encantamiento, aura. 
+
+Descripción de la carta - Encantar criatura. 
+La criatura encantada obtiene -5/-0.
+2 mana: Regresa la Agorafobia a la mano de su propietario. 
+"Toda la ciudad está eligiendo un bando. Yo elijo el de dentro".
+
+Símbolo de expansión - Gatecrash
+
+Coste de maná - 2
+
+Fuerza/Resistencia (en el caso de las criaturas) - ?
+
+Diseñador y fecha - Jim Murray 2013
+
+Rareza - Poco común.
